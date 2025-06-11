@@ -1,7 +1,7 @@
 # AI Agent
 
 This is a small python project which is a toy version of [Claude Code](https://www.anthropic.com/claude-code).
-This is a guided project on [Boot.dev](https;//www.boot.dev).
+This is a guided project on [Boot.dev](https://www.boot.dev).
 
 ## Learning Goals
 
